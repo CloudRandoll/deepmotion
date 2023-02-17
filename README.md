@@ -1,11 +1,4 @@
-# Deep-motion-editing
 
-![Python](https://img.shields.io/badge/Python->=3.7-Blue?logo=python)  ![Pytorch](https://img.shields.io/badge/PyTorch->=1.5.0-Red?logo=pytorch)
-![Blender](https://img.shields.io/badge/Blender-%3E=2.8-Orange?logo=blender)
-
-This library provides fundamental and advanced functions to work with 3D character animation in deep learning with Pytorch. The code contains end-to-end modules, from reading and editing animation files to visualizing and rendering (using Blender) them.
-
-The main deep editing operations provided here, motion retargeting and motion style transfer, are based on two works published in SIGGRAPH 2020:
 
 **Skeleton-Aware Networks for Deep Motion Retargeting**: [Project](https://deepmotionediting.github.io/retargeting) | [Paper](https://arxiv.org/abs/2005.05732) |
 [Video](https://www.youtube.com/watch?v=ym8Tnmiz5N8)
